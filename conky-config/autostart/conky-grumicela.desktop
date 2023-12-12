@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Conky Config
+GenericName=Conky
+Comment=Conky config grumicela.
+Categories=Utility;
+Type=Application
+Exec=sh -c '/home/$USER/.config/conky/grumicela/start.sh'
+Icon=conky
+Terminal=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Hidden=false
+Name[en_US]=conky-grumicela.desktop
+Comment[en_US]=Conky config grumicela.
+X-GNOME-Autostart-Delay=3
